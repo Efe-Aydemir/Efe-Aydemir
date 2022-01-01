@@ -10,4 +10,4 @@ Hobiler:
   - Müzik dinlemek
   - Elektronik ile uğraşmak
 
-![Generic badge](https://img.shields.io/badge/Dil%20Say%C4%B1s%C4%B1-3-yellow) ![Generic badge](https://img.shields.io/badge/Python-70%25-blue)
+![Generic badge](https://img.shields.io/badge/Dil%20Say%C4%B1s%C4%B1-3-yellow) ![Generic badge](https://img.shields.io/badge/Python-70%25-blue) ![Generic badge](https://img.shields.io/badge/Dart-15%25-important)  ![Generic badge](https://img.shields.io/badge/JavaScript-15%25-blueviolet)
