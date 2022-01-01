@@ -10,4 +10,4 @@ Hobiler:
   - Müzik dinlemek
   - Elektronik ile uğraşmak
 
-https://img.shields.io/static/v1?label=Başlık&message=Mesaj&color=red
+https://img.shields.io/badge/Dil%20Say%C4%B1s%C4%B1-3-yellowgreen
