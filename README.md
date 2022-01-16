@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Merhaba Ben Efe 15 yaşındayım. Konya'da yaşamaktayım. Python - Dart - JavaScript dillerini bilmekteyim/öğrenmekteyim.
-Öğrendiğim yaptığım ve geliştireceğim buraya atmaktayım.
+Merhaba Ben Efe. Konya'da yaşamaktayım. Python - Dart - JavaScript dillerini bilmekteyim/öğrenmekteyim.
+Öğrendiğim yaptığım ve geliştireceğim şeyleri buraya atmaktayım.
 
 Hobiler:
   - Bilgi veren kitaplar okumak
