@@ -1,6 +1,6 @@
 ### Merhabaa 👋
 
-Merhaba Ben Efe. Konya'da yaşamaktayım. Python - Dart - JavaScript dillerini bilmekteyim/öğrenmekteyim.
+Merhaba Ben Efe. Konya'da yaşamaktayım. Python - JavaScript dillerini bilmekteyim/öğrenmekteyim.
 Öğrendiğim yaptığım ve geliştireceğim şeyleri buraya atmaktayım.
 
 Hobiler:
