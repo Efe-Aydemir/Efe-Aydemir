@@ -1,4 +1,4 @@
-### Hi there 👋
+### Merhabaa 👋
 
 Merhaba Ben Efe. Konya'da yaşamaktayım. Python - Dart - JavaScript dillerini bilmekteyim/öğrenmekteyim.
 Öğrendiğim yaptığım ve geliştireceğim şeyleri buraya atmaktayım.
