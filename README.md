@@ -1,11 +1,11 @@
 ### Merhabaa 👋
 
-Merhaba Ben Efe. Konya'da yaşamaktayım. Python - JavaScript dillerini bilmekteyim/öğrenmekteyim.
-Öğrendiğim yaptığım ve geliştireceğim şeyleri buraya atmaktayım.Web Developer olmak istiyorum
+Hello, I'm Efe. I live in Konya. I know/learn Python - JavaScript languages.
+I'm posting the things I learned and will develop here. I want to be a Web Developer
 
-Hobiler:
-  - Bilgi veren kitaplar okumak
-  - Futbol Oynamak
-  - Üzerinde durduğum dillerin kütühanelerini öğrenmek
-  - Müzik dinlemek
-  - Elektronik ile uğraşmak
+Hobbies:
+   - Reading informative books
+   - To play football
+   - Learning the libraries of the languages I'm focusing on
+   - Listen to music
+   - Dealing with electronics
