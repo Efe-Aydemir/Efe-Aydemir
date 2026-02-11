@@ -1,6 +1,6 @@
 # Merhaba, Ben Hasan Efe Aydemir! 👋
 
-### 🎓 Matematik & Bilgisayar Bilimleri Öğrencisi | 💻 Full-Stack Developer & Data Analyst
+### 🎓 Matematik & Bilgisayar Bilimleri Öğrencisi | 💻 Front-End Developer & Data Analyst
 
 Necmettin Erbakan Üniversitesi'nde Matematik ve Bilgisayar Bilimleri öğrencisiyim. Yaklaşık 5 yıldır yazılım dünyasıyla hobi olarak ilgileniyorum ve bu süreci profesyonel bir kariyere dönüştürüyorum. Matematiksel düşünce yapısını, veri analizi ve modern web teknolojileriyle harmanlamayı seviyorum.
 
