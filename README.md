@@ -39,8 +39,8 @@ Necmettin Erbakan Üniversitesi'nde Matematik ve Bilgisayar Bilimleri öğrencis
 
 ### 📫 Benimle İletişime Geçin
 
-- **LinkedIn:** [Hasan Efe Aydemir](https://www.linkedin.com/in/buraya-linkedin-linkini-ekle)
-- **Email:** [buraya-mail-adresini-ekle@example.com]
+
+- **Email:** [hsnefeayd1@gmail.com]
 - **Konum:** Konya, Türkiye 🇹🇷
 
 ---
