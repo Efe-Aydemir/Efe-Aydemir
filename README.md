@@ -1,13 +1,48 @@
-### Merhabaa 👋
+# Merhaba, Ben Hasan Efe Aydemir! 👋
 
-Hello, I'm Efe. I live in Konya. I know/learn Python - JavaScript languages.
-I'm posting the things I learned and will develop here. I want to be a Web Developer
+### 🎓 Matematik & Bilgisayar Bilimleri Öğrencisi | 💻 Full-Stack Developer & Data Analyst
 
-Hobbies:
-   - Reading informative books
-   - To play football
-   - Learning the libraries of the languages I'm focusing on
-   - Listen to music
-   - Dealing with electronics
-   
-## My Website => https://koyun.site
+Necmettin Erbakan Üniversitesi'nde Matematik ve Bilgisayar Bilimleri öğrencisiyim. Yaklaşık 5 yıldır yazılım dünyasıyla hobi olarak ilgileniyorum ve bu süreci profesyonel bir kariyere dönüştürüyorum. Matematiksel düşünce yapısını, veri analizi ve modern web teknolojileriyle harmanlamayı seviyorum.
+
+---
+
+### 🚀 Nelerle İlgileniyorum?
+
+- **Web Development:** Modern JavaScript frameworkleri (Vue.js, Svelte, SolidJS) ile kullanıcı dostu arayüzler ve sağlam backend yapıları kuruyorum.
+- **Data Analysis:** Matematiksel altyapımı kullanarak verilerden anlamlı sonuçlar çıkarmak ve Python ekosisteminde (Pandas, Numpy vb.) projeler geliştirmek odak noktam.
+- **Otomasyon & Verimlilik:** n8n gibi araçlarla iş akışlarını otomatize etmeyi ve verimliliği artırmayı seviyorum.
+
+---
+
+### 🛠️ Teknolojiler & Araçlar
+
+- **Diller:** JavaScript, Python, HTML5, CSS3
+- **Frameworkler & Kütüphaneler:** Vue.js, Svelte, SolidJS
+- **Veri Analizi:** Veri Görselleştirme, İstatistiksel Analiz
+- **Diğer:** Git, GitHub, n8n, Linux, Temel Elektronik
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Efe-Aydemir&show_icons=true&theme=tokyonight" alt="Efe'nin GitHub İstatistikleri" />
+</p>
+
+---
+
+### ✍️ Blog & Kişisel Web Sitem
+Öğrendiklerimi ve geliştirdiğim projeleri paylaştığım kişisel web siteme buradan ulaşabilirsiniz:
+👉 [koyun.site](https://koyun.site)
+
+---
+
+### 📫 Benimle İletişime Geçin
+
+- **LinkedIn:** [Hasan Efe Aydemir](https://www.linkedin.com/in/buraya-linkedin-linkini-ekle)
+- **Email:** [buraya-mail-adresini-ekle@example.com]
+- **Konum:** Konya, Türkiye 🇹🇷
+
+---
+
+> "Matematik, evrenin dilidir; yazılım ise bu dili hayata geçirme biçimimizdir."
