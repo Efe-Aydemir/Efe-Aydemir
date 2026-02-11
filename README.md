@@ -23,13 +23,6 @@ Necmettin Erbakan Üniversitesi'nde Matematik ve Bilgisayar Bilimleri öğrencis
 
 ---
 
-### 📊 GitHub İstatistiklerim
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Efe-Aydemir&show_icons=true&theme=tokyonight" alt="Efe'nin GitHub İstatistikleri" />
-</p>
-
----
 
 ### ✍️ Blog & Kişisel Web Sitem
 Öğrendiklerimi ve geliştirdiğim projeleri paylaştığım kişisel web siteme buradan ulaşabilirsiniz:
